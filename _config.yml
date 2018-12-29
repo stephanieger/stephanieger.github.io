@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Benjamin Horowitz
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: A brief website about me
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
