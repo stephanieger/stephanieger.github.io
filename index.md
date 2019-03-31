@@ -31,9 +31,9 @@ The Cosmic Microwave Background provides a backlight on universe and we can anal
 
 ## Exploring Cosmological Signatures of Beyond the Standard Model Physics
 
-Perhaps the most exciting aspect of modern cosmology is the ability to use the large datasets available to constrain exotic physics models. Of particular interest recently has been the theory that dark matter is composed primarily (or exclusively) from a large primordial black hole population.
+Perhaps the most exciting aspect of modern cosmology is the ability to use the large datasets available to constrain exotic physics models. Of particular interest recently has been the theory that dark matter is composed primarily (or exclusively) from a large primordial black hole population. In this work, I used observations from the Planck Satellite's observations of the Cosmic Microwave Background to constrain those models.
 
-[Revisiting Primordial Black Holes Constraints from Ionization History](https://arxiv.org/abs/1612.07264).
+[Revisiting Primordial Black Holes Constraints from Ionization History](https://arxiv.org/abs/1612.07264)
 
 ## Travel Calendar
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nnc2b9g4mr2f83dqgvkkh2km7s%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=Asia%2FTokyo" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
