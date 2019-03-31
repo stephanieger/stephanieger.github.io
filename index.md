@@ -26,6 +26,7 @@ Some of my recent work has been focused on understanding the emergent structures
 The Cosmic Microwave Background provides a backlight on universe and we can analyze structures not only through the radiation they emit but through the interaction of the matter with light from the cosmic microwave background. This has the advantege of allowing us to analyze aspects of galaxy clusters that cannot be inferred from the visible light, such as the temperature of the intracluster medium (through the thermal Sunyaev Zeldovich effect) or the overall mass of the cluster (through their gravitational lensing).
 
 [Reconstructing Small Scale Lenses from the Cosmic Microwave Background](https://arxiv.org/abs/1710.10236)
+
 [Cosmological constraints from thermal Sunyaev Zeldovich power spectrum revisited](https://arxiv.org/abs/1609.01850)
 
 
