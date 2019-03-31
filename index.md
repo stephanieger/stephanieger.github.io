@@ -15,24 +15,25 @@ In addition to my work in physics, I'm deeply involved with "Splash" educational
 
 The distribution of matter in the universe holds a wealth of information about the fundemental nature of the cosmos. As time moves forward, structure evolve under the force of gravity given their initial conditions from the early universe. By understanding the current distributon of matter, we can rewind back time to study the initial conditions as well as constrain the gravitational evolution itself. 
 
-Some of my recent papers have been focused on understanding this  
+Some of my recent work has been focused on understanding the emergent structures in the universe from a variety of cosmological probes using maximum likelihood methods.
 
-[Link to another page](./another-page.html).
+[A Constrained Reconstruction Approach to Modeling the z~2.5 Cosmic Web Probed by Lyman-alpha Forest Tomography](https://arxiv.org/abs/1903.09049).
+[Efficient Optimal Reconstruction of Linear Fields and Band-powers from Cosmological Data](https://arxiv.org/abs/1810.00503)
 
 
 ## Unstanding the Structure of the Universe through the Cosmic Microwave Background
 
+The Cosmic Microwave Background provides a backlight on universe and we can analyze structures not only through the radiation they emit but through the interaction of the matter with light from the cosmic microwave background. This has the advantege of allowing us to analyze aspects of galaxy clusters that cannot be inferred from the visible light, such as the temperature of the intracluster medium (through the thermal Sunyaev Zeldovich effect) or the overall mass of the cluster (through their gravitational lensing).
 
-
-
-[Link to another page](./another-page.html).
+[Reconstructing Small Scale Lenses from the Cosmic Microwave Background](https://arxiv.org/abs/1710.10236)
+[Cosmological constraints from thermal Sunyaev Zeldovich power spectrum revisited](https://arxiv.org/abs/1609.01850)
 
 
 ## Exploring Cosmological Signatures of Beyond the Standard Model Physics
 
+Perhaps the most exciting aspect of modern cosmology is the ability to use the large datasets available to constrain exotic physics models. Of particular interest recently has been the theory that dark matter is composed primarily (or exclusively) from a large primordial black hole population.
 
-
-[Link to another page](./another-page.html).
+[Revisiting Primordial Black Holes Constraints from Ionization History](https://arxiv.org/abs/1612.07264).
 
 ## Travel Calendar
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nnc2b9g4mr2f83dqgvkkh2km7s%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=Asia%2FTokyo" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
