@@ -17,7 +17,10 @@ Contact Info: Benjamin Horowitz [bhorowitz@berkeley.edu](mailto:bhorowitz@berkel
 
 [Nick Kern's Astro9 Python Install Guide](https://nkern.github.io/Astro_9/install.html)
 NOTE! Anaconda installation link seems broken?
+
 [Updated Link](https://docs.anaconda.com/anaconda/install/)
+
+[Homeworks](https://github.com/astro-9-scientific-programming/Homeworks)
 
 ## Resources
 
