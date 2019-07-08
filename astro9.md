@@ -20,3 +20,5 @@ Contact Info: Benjamin Horowitz [bhorowitz@berkeley.edu](mailto:bhorowitz@berkel
 ## Resources
 
 [Syllabus](./syllabus.pdf)
+
+[Introductory Python Materials](https://github.com/nkern/Astro_9/tree/master/lectures/02_IntroPython)
