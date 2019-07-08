@@ -19,4 +19,4 @@ Contact Info: Benjamin Horowitz [bhorowitz@berkeley.edu](mailto:bhorowitz@berkel
 
 ##Resources
 
-[Syllabus][./syllabus.pdf]
+[Syllabus](./syllabus.pdf)
