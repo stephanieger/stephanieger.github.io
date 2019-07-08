@@ -5,7 +5,7 @@ layout: default
 
 # Astro 9 : Introduction to Scientific Programming with Python
 
-This is a (hopefully) temporary site until we have a more permanent BCourses website.
+This is a (hopefully) temporary site until we have a more permanent BCourses website!
 
 Contact Info: Benjamin Horowitz [bhorowitz@berkeley.edu](mailto:bhorowitz@berkeley.edu)
 
