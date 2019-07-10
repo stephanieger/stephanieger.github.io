@@ -9,21 +9,25 @@ This is a (hopefully) temporary site until we have a more permanent BCourses web
 
 Contact Info: Benjamin Horowitz [bhorowitz@berkeley.edu](mailto:bhorowitz@berkeley.edu)
 
-## Critical Links
 
-[Pre-Class Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPB0K_O-kFpc79ciTxTyqE-cFm_xc4ebBOBHTUlb1aRD_row/viewform?usp=sf_link)
+## Most Important Links
 
-[Github Classroom](https://classroom.github.com/a/74fTxXlj)
-
-[Nick Kern's Astro9 Python Install Guide](https://nkern.github.io/Astro_9/install.html)
-NOTE! Anaconda installation link seems broken?
-
-[Updated Link](https://docs.anaconda.com/anaconda/install/)
+[Lectures and Breakout Materials](https://github.com/astro-9-scientific-programming/lectures-breakouts)
 
 [Homeworks](https://github.com/astro-9-scientific-programming/Homeworks)
 
-## Resources
+[Github Classroom](https://classroom.github.com/a/74fTxXlj)
+
+## Critical Links
 
 [Syllabus](./syllabus.pdf)
+
+[Pre-Class Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPB0K_O-kFpc79ciTxTyqE-cFm_xc4ebBOBHTUlb1aRD_row/viewform?usp=sf_link)
+
+[Nick Kern's Astro9 Python Install Guide](https://nkern.github.io/Astro_9/install.html)
+
+NOTE! Anaconda installation link seems broken? [Updated Link](https://docs.anaconda.com/anaconda/install/)
+
+## Resources
 
 [Introductory Python Materials](https://github.com/nkern/Astro_9/tree/master/lectures/02_IntroPython)
