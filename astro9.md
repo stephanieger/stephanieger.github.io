@@ -16,11 +16,13 @@ Contact Info: Benjamin Horowitz [bhorowitz@berkeley.edu](mailto:bhorowitz@berkel
 
 [Homeworks](https://github.com/astro-9-scientific-programming/Homeworks)
 
-[Github Classroom](https://classroom.github.com/a/74fTxXlj)
+[Github Classroom: Problem Set 2](https://classroom.github.com/a/jmLdtJ-Y)
 
 ## Critical Links
 
 [Syllabus](./syllabus.pdf)
+
+[Final Project Description](./syllabus.pdf)
 
 [Pre-Class Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPB0K_O-kFpc79ciTxTyqE-cFm_xc4ebBOBHTUlb1aRD_row/viewform?usp=sf_link)
 
