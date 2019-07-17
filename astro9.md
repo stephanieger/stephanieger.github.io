@@ -22,7 +22,7 @@ Contact Info: Benjamin Horowitz [bhorowitz@berkeley.edu](mailto:bhorowitz@berkel
 
 [Syllabus](./syllabus.pdf)
 
-[Final Project Description](./syllabus.pdf)
+[Final Project Description](./FinalProjectDescription.pdf)
 
 [Pre-Class Survey](https://docs.google.com/forms/d/e/1FAIpQLSdPB0K_O-kFpc79ciTxTyqE-cFm_xc4ebBOBHTUlb1aRD_row/viewform?usp=sf_link)
 
