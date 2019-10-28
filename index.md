@@ -5,7 +5,7 @@ layout: default
 
 # About Me
 
-I'm a sixth year Applied Mathematics graduate student at Northwestern University. My work has mainly focused on deep learning classification algorithms for temporal data. Much of my recent work has been focused on extensions of LSTMs to complex datasets. I have developed an algorithm to improve classification for imbalanced datasets. 
+I'm a sixth year Applied Mathematics graduate student at Northwestern University. My work has mainly focused on deep learning classification algorithms for temporal data. Much of my recent work has been focused on extensions of neural network models to complex temporal datasets. 
 
 In addition to my work in machine learning, I'm involved with Northwestern Splash, an educational outreach program where college students teach one off classes to local high school students on topics that range from cryptography to german wheel to east coast swing. Our program is supported by the Learning Unlimited, the national umbrella organization. 
 
@@ -13,7 +13,7 @@ In addition to my work in machine learning, I'm involved with Northwestern Splas
 
 ## Imbalanced Multivariate Sequence Classification
 
-It is known that standard machine learning methods perform poorly when the dataset is imbalanced. Techniques that are used for imbalanced datasets generally involve oversampling the minority data, ensembling the data, or generating synthetic minority data to supplement the training set. While methods exist for oversampling timeseries data, these methods are not suited for multivariate temporal data as these methods cannot account for correlations between features at different timesteps. We developed a Generative Adversarial Network based method for generating synthetic minority data for multivariate temporal data. This method significantly improve model classification accuracy. 
+It is known that standard machine learning methods perform poorly when the dataset is imbalanced. For example, if we're predicting if an image is a dog or a cat, and 99% of the training set is composed of cat images, a model is unlikely to learn what a dog looks like. Techniques that are used for imbalanced datasets generally involve oversampling the minority data, ensembling the data, or generating synthetic minority data to supplement the training set. While methods exist for oversampling timeseries data, these methods are not suited for multivariate temporal data as these methods cannot account for correlations between features at different timesteps. We developed a Generative Adversarial Network based method for generating synthetic minority data for multivariate temporal data. This method significantly improve model classification accuracy. 
 
 [Autoencoders and Generative Adversarial Networks for Imbalanced Sequence Classification](https://arxiv.org/abs/1901.02514)
 
