@@ -5,9 +5,9 @@ layout: default
 
 # About Me
 
-I'm a fifth year Physics graduate student at University of California at Berkeley. My work has mainly focused on understanding the distribution of "stuff" in the universe (the "large scale structure") and using that information to make inferences about underlying physics. Much of my recent work has focused on developing statistical methods to reconstruct distant cosmic structures through a variety of probes.
+I'm a sixth year Applied Mathematics graduate student at Northwestern University. My work has mainly focused on deep learning classification algorithms for temporal data. Much of my recent work has been focused on extensions of LSTMs to complex datasets. I have developed algorithms to improve classification of both imbalanced datasets and partially ordered time series data. 
 
-In addition to my work in physics, I'm deeply involved with "Splash" educational outreach/enrichment programs where university students teach short classes on non-standard topics to area high school and middle school students. Classes can be on anything ranging from the physics of black holes to german fairy tales. Students get to learn about things that they normally wouldn't have access to and empower them to find new passions. Through the national umberella organization, Learning Unlimited, I've mentored students at UC Berkeley, UC Merced, Oxford University, Bard College, and Nothwestern University to run their own successful program. 
+In addition to my work in machine learning, I'm involved with Northwestern Splash, an educational outreach program where college students teach one off classes to local high school students on topics that range from cryptography to german wheel to east coast swing. Our program is supported by the Learning Unlimited, the national umbrella organization. 
 
 # Current Research Focus
 
@@ -37,5 +37,3 @@ Perhaps the most exciting aspect of modern cosmology is the ability to use the l
 
 [Revisiting Primordial Black Holes Constraints from Ionization History](https://arxiv.org/abs/1612.07264)
 
-## Travel Calendar
-<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nnc2b9g4mr2f83dqgvkkh2km7s%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=Asia%2FTokyo" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
