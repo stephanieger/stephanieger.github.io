@@ -13,14 +13,14 @@ In addition to my work in machine learning, I'm involved with Northwestern Splas
 
 ## Imbalanced Multivariate Sequence Classification
 
-It is known that standard machine learning methods perform poorly when the dataset is imbalanced. Techniques that are used for imbalanced datasets generally involve oversampling the minority data, ensembling the data, or generating synthetic minority data to supplement the training set. While methods exist for oversampling timeseries data, these methods are not suited for multivariate temporal data as these methods cannot account for correlations between features at different timesteps. We developed a Generative Adversarial Network based method for generating synthetic minority data for multivariate temporal data. This method significantly improve model classification accuracy.
+It is known that standard machine learning methods perform poorly when the dataset is imbalanced. Techniques that are used for imbalanced datasets generally involve oversampling the minority data, ensembling the data, or generating synthetic minority data to supplement the training set. While methods exist for oversampling timeseries data, these methods are not suited for multivariate temporal data as these methods cannot account for correlations between features at different timesteps. We developed a Generative Adversarial Network based method for generating synthetic minority data for multivariate temporal data. This method significantly improve model classification accuracy. 
 
 [Autoencoders and Generative Adversarial Networks for Imbalanced Sequence Classification](https://arxiv.org/abs/1901.02514)
 
 ## Explainability of Recurrent Neural Networks (RNNs)
 
-Neural network models  have been shown to outperform standard machine learning methods on many classification tasks. However, they lack the transparency of standard classification methods such as decision trees. I am interested in comparing general explainability methods to RNN specific methods in order to determine which features that are important for model classification. 
+Neural network models  have been shown to outperform standard machine learning methods on many classification tasks. However, they lack the transparency of standard classification methods such as decision trees. I am interested in comparing general explainability methods to RNN specific methods in order to determine which features that are important for model classification. This project is supported by an industry partner.
 
 ## Set Based Models
 
-Neural network architectures have been developed for timeseries classification. These include LSTMs, GRUs, and transformers. I am interested in understanding how these models can be used when considering a list of input data with no inherent order. 
+Neural network architectures have been developed for timeseries classification. These include LSTMs, GRUs, and transformers. I am interested in understanding how these models can be used when considering a list of input data with no inherent order. This project is supported by an industry partner.
