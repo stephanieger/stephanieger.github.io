@@ -5,7 +5,7 @@ layout: default
 
 # About Me
 
-I'm a sixth year Applied Mathematics graduate student at Northwestern University. My work has mainly focused on deep learning classification algorithms for temporal data. Much of my recent work has been focused on developing extensions of neural network architectures to complex temporal datasets. 
+I'm a sixth year Applied Mathematics graduate student at Northwestern University. My work has mainly focused on deep learning classification algorithms for temporal data. Much of my recent work has been focused on developing extensions of neural network architectures to complex temporal datasets. These architectures include Long-Short Term Memory cells, which gives a model the capacity to remember events at different time scales. 
 
 In addition to my work in machine learning, I'm involved with Northwestern Splash, an educational outreach program where college students teach one off classes to local high school students on topics that range from cryptography to german wheel to east coast swing. Our program is supported by the Learning Unlimited, the national umbrella organization. 
 
